@@ -1,0 +1,1 @@
+This project was built in Unity 5.2.0f3 32bit
